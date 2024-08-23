@@ -16,8 +16,8 @@ Course organizer: [MASSHINE](https://masshine.com)
 
 | Topic | Materials |
 |-------|-----------|
-| An Introduction to Python and Data Science | [Python Intro](https://github.com/CALDISS-AAU/sds-ss-2024/blob/master/notebook/intro-python_slides.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/intro-python_slides.ipynb) |
-| Introduction to Pandas | [Pandas Intro](https://github.com/CALDISS-AAU/sds-ss-2024/blob/master/notebook/intro-pandas_slides.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/intro-pandas_slides.ipynb) <br> [Pandas Live Coding](https://github.com/CALDISS-AAU/sds-ss-2024/blob/master/notebook/intro-pandas_live-coding.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/intro-pandas_live-coding.ipynb) |
+| An Introduction to Python and Data Science |  |
+| Introduction to Pandas | [Pandas Live Coding](https://github.com/CALDISS-AAU/sds-ss-2024/blob/master/notebook/intro-pandas_live-coding.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/intro-pandas_live-coding.ipynb) |
 | Pandas Hands-on Exercise | [Pandas Exercise](https://github.com/CALDISS-AAU/sds-ss-2024/blob/master/notebook/pandas_hands-on.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/pandas_hands-on.ipynb) |
 | Introduction to Machine Learning and Exploratory Techniques | *Materials to be added* |
 | Clustering - A World of Patterns | *Materials to be added* |
