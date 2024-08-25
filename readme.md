@@ -19,15 +19,14 @@ Course organizer: [MASSHINE](https://masshine.com)
 | An Introduction to Python and Data Science |  |
 | Introduction to Pandas | [Pandas Live Coding](https://github.com/CALDISS-AAU/sds-ss-2024/blob/master/notebook/intro-pandas_live-coding.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/intro-pandas_live-coding.ipynb) |
 | Pandas Hands-on Exercise | [Pandas Exercise](https://github.com/CALDISS-AAU/sds-ss-2024/blob/master/notebook/pandas_hands-on.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/pandas_hands-on.ipynb) |
-| Introduction to Machine Learning and Exploratory Techniques | *Materials to be added* |
-| Clustering - A World of Patterns | *Materials to be added* |
+
 
 ### Tuesday: Diving Deeper into Machine Learning
 
 | Topic | Materials |
 |-------|-----------|
-| Introduction to Supervised Machine Learning | *Materials to be added* |
-| Explaining Machine Learning Models | *Materials to be added* |
+| Introduction to Machine Learning| *Materials to be added* |
+| Clustering - A World of Patterns | *Materials to be added* |
 | Working with Geospatial Data | *Materials to be added* |
 | Case Example: Applying Supervised Machine Learning in Register-based Studies | *Materials to be added* |
 
@@ -35,6 +34,7 @@ Course organizer: [MASSHINE](https://masshine.com)
 
 | Topic | Materials |
 |-------|-----------|
+|Embedded models | *Materials to be added* |
 | Introduction to Network Analysis | *Materials to be added* |
 | Curating Networks (TANT-Lab Session) | *Materials to be added* |
 | Visual Network Analysis | *Materials to be added* |
@@ -52,15 +52,14 @@ Course organizer: [MASSHINE](https://masshine.com)
 
 | Topic | Materials |
 |-------|-----------|
-| Introduction to Web Scraping in Python | *Materials to be added* |
-| Examples Using APIs and Article Scraping | *Materials to be added* |
+| Outlook - where are we going? | *Materials to be added* |
+| Examples of ML in social science in general | *Materials to be added* |
 
 *Note: Additional materials will be added as the course progresses.*
 
 ## Lecturers
 - Associate Professor Roman Jurowetzki (Aalborg University Business School)
 - Associate Professor Rolf Lyneborg Lund (Department of Sociology and Social Work, Aalborg University)
-- Professor Birger Larsen (Department of Communication and Psychology)
 - Assistant Professor Mathieu Jacomy (Department of Culture and Learning, Aalborg University)
 
 ## Prerequisites
