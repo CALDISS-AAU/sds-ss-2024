@@ -3,6 +3,8 @@
 Applied machine learning and data science workshop for humanities and social sciences.
 Course organizer: [MASSHINE](https://masshine.com)
 
+This course is supported by [Danish Data Science Academy (DDSA)](https://ddsa.dk/).
+
 ## Course Details
 - **Date**: August 26 – 30, 2024
 - **Location**: Hotel Højgaarden, Slettestrandvej 50, 9690 Fjerritslev
@@ -16,7 +18,7 @@ Course organizer: [MASSHINE](https://masshine.com)
 
 | Topic | Materials |
 |-------|-----------|
-| An Introduction to Python and Data Science |  |
+| An Introduction to Python for Data Science |  |
 | Introduction to Pandas | [Pandas Live Coding](https://github.com/CALDISS-AAU/sds-ss-2024/blob/master/notebook/intro-pandas_live-coding.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/intro-pandas_live-coding.ipynb) |
 | Pandas Hands-on Exercise | [Pandas Exercise](https://github.com/CALDISS-AAU/sds-ss-2024/blob/master/notebook/pandas_hands-on.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/pandas_hands-on.ipynb) |
 
