@@ -3,6 +3,8 @@
 Applied machine learning and data science workshop for humanities and social sciences.
 Course organizer: [MASSHINE](https://masshine.com)
 
+This course is supported by [Danish Data Science Academy (DDSA)](https://ddsa.dk/).
+
 ## Course Details
 - **Date**: August 26 – 30, 2024
 - **Location**: Hotel Højgaarden, Slettestrandvej 50, 9690 Fjerritslev
@@ -16,25 +18,22 @@ Course organizer: [MASSHINE](https://masshine.com)
 
 | Topic | Materials |
 |-------|-----------|
-| An Introduction to Python and Data Science |  |
-| Introduction to Pandas | [Pandas Live Coding](https://github.com/CALDISS-AAU/sds-ss-2024/blob/master/notebook/intro-pandas_live-coding.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/intro-pandas_live-coding.ipynb) |
-| Pandas Hands-on Exercise | [Pandas Exercise](https://github.com/CALDISS-AAU/sds-ss-2024/blob/master/notebook/pandas_hands-on.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/pandas_hands-on.ipynb) |
-
+| An Introduction to Python for Data Science |  |
 
 ### Tuesday: Diving Deeper into Machine Learning
 
 | Topic | Materials |
 |-------|-----------|
-| Introduction to Machine Learning| *Materials to be added* |
-| Clustering - A World of Patterns | *Materials to be added* |
-| Working with Geospatial Data | *Materials to be added* |
-| Case Example: Applying Supervised Machine Learning in Register-based Studies | *Materials to be added* |
+| Introduction to Pandas | [Pandas Live Coding](https://github.com/CALDISS-AAU/sds-ss-2024/blob/master/notebook/intro-pandas_live-coding.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/intro-pandas_live-coding.ipynb) |
+| Pandas Hands-on Exercise | [Pandas Exercise](https://github.com/CALDISS-AAU/sds-ss-2024/blob/master/notebook/pandas_hands-on.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/pandas_hands-on.ipynb) |
+| Introduction to Machine Learning| PowerPoint slides in slides folder |
+| Clustering - A World of Patterns | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U8aCESnUi_ibbkAWHJRrDy5y29YnQdvS#scrollTo=ZZo_7XUfFyxH) |
 
 ### Wednesday: Network Analysis and Visualization
 
 | Topic | Materials |
 |-------|-----------|
-|Embedded models | *Materials to be added* |
+|Embeddings and Unsupervised ML | (https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/tues_UML_dim_reduction_RJ.ipynb) |
 | Introduction to Network Analysis | *Materials to be added* |
 | Curating Networks (TANT-Lab Session) | *Materials to be added* |
 | Visual Network Analysis | *Materials to be added* |
