@@ -34,7 +34,7 @@ Course organizer: [MASSHINE](https://masshine.com)
 
 | Topic | Materials |
 |-------|-----------|
-|Embedded models | *Materials to be added* |
+|Embeddings and Unsupervised ML | (https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/tues_UML_dim_reduction_RJ.ipynb) |
 | Introduction to Network Analysis | *Materials to be added* |
 | Curating Networks (TANT-Lab Session) | *Materials to be added* |
 | Visual Network Analysis | *Materials to be added* |
