@@ -28,7 +28,7 @@ This course is supported by [Danish Data Science Academy (DDSA)](https://ddsa.dk
 | Topic | Materials |
 |-------|-----------|
 | Introduction to Machine Learning|  |
-| Clustering - A World of Patterns | [Clustering live coding](https://colab.research.google.com/drive/1U8aCESnUi_ibbkAWHJRrDy5y29YnQdvS#scrollTo=ZZo_7XUfFyxH) |
+| Clustering - A World of Patterns | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U8aCESnUi_ibbkAWHJRrDy5y29YnQdvS#scrollTo=ZZo_7XUfFyxH) |
 | Working with Geospatial Data | *Materials to be added* |
 | Case Example: Applying Supervised Machine Learning in Register-based Studies | *Materials to be added* |
 
