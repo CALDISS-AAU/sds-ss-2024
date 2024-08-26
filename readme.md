@@ -18,7 +18,7 @@ This course is supported by [Danish Data Science Academy (DDSA)](https://ddsa.dk
 
 | Topic | Materials |
 |-------|-----------|
-| An Introduction to Python for Data Science |  |
+| An Introduction to Python for Data Science | <a href="https://github.com/CALDISS-AAU/sds-ss-2024/raw/master/slides/python-intro_slides.html" download>Slides</a> <br> [Introduction to Python session notebook](https://github.com/CALDISS-AAU/sds-ss-2024/blob/master/notebook/python_intro_session_notebook.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/python_intro_session_notebook.ipynb) |
 
 ### Tuesday: Diving Deeper into Machine Learning
 
