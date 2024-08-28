@@ -33,11 +33,11 @@ This course is supported by [Danish Data Science Academy (DDSA)](https://ddsa.dk
 
 | Topic | Materials |
 |-------|-----------|
-|Embeddings and Unsupervised ML | (https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/tues_UML_dim_reduction_RJ.ipynb) |
-| Introduction to Network Analysis | *Materials to be added* |
-| Curating Networks (TANT-Lab Session) | *Materials to be added* |
-| Visual Network Analysis | *Materials to be added* |
-| The Core Principles of Visual Network Analysis | *Materials to be added* |
+|Embeddings and Unsupervised ML | [Notebook ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/tues_UML_dim_reduction_RJ.ipynb) |
+| Wait, what? Networks? | [The core principle of Visual Network Analysis (VNA)](https://drive.google.com/file/d/1W-HR_DLCDABKLVYoY4OZ4qiyxZWWpAsV/view?usp=drive_link) <br> [Force-driven layout algorithms](https://drive.google.com/file/d/1Ne7sYHYeRpKAXOS7MJrvUbEFElEaWeSk/view?usp=drive_link) <br> [VNA: Overview](https://drive.google.com/file/d/1YBs-s1e6-cfZVj5mDUd743sdLxgm8FLV/view?usp=drive_link) |
+| Analyzing networks | [Irreductionist network viz](https://drive.google.com/file/d/1H9loZV5X5fPKI3lN8lC99ygqT-18V1Sb/view?usp=drive_link)
+[Case: Making algorithms boring again](https://docs.google.com/presentation/d/1WOV50-0A5ATyK1yCACEMgydE4X5j1m0N4GvFCcmN_WE/edit?usp=drive_link) |
+| Hands-on | [Gephi](https://gephi.org/) (desktop), [Gephi Lite](https://gephi.org/gephi-lite/) (online), and [Gephisto](https://jacomyma.github.io/gephisto/) (online, starting point <br> [Small mystery network](https://drive.google.com/file/d/1hHMndLKDrpXl5SSH4COrOLHbdxREu1H6/view?usp=drive_link) <br> [Big mystery network](https://drive.google.com/file/d/17m4e4ysnGX3EU6a8jby0DKvw_D-LMNDT/view?usp=drive_link) |
 
 ### Thursday: Natural Language Processing (NLP) and Its Applications
 
