@@ -42,9 +42,9 @@ This course is supported by [Danish Data Science Academy (DDSA)](https://ddsa.dk
 
 | Topic | Materials |
 |-------|-----------|
-| Introduction to NLP and String Manipulation | *Materials to be added* |
-| Supervised Machine Learning and NLP | *Materials to be added* |
-| NLP and Unsupervised Machine Learning, Getting Tweets, Semantic Search, SBERT Embeddings | *Materials to be added* |
+| LLMs eat NLP | [Notebook ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/01_intro_LLM_structure_ss24.ipynb) |
+| Topic Modelling with Transformers | [Notebook ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/TMOpenAITogether_summerschool24.ipynb) |
+| FewShot Suppervised NLP | [Notebook ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/Classifier_setfit_LLM.ipynb) |
 
 ### Friday: Methodological Outlook and Future Directions
 
