@@ -46,6 +46,8 @@ This course is supported by [Danish Data Science Academy (DDSA)](https://ddsa.dk
 | Topic Modelling with Transformers | [Notebook ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/TMOpenAITogether_summerschool24.ipynb) |
 | FewShot Suppervised NLP | [Notebook ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/Classifier_setfit_LLM.ipynb) |
 
+- code exercise: https://gist.github.com/RJuro/d2af163da3177867e0307016407e13d4
+
 ### Friday: Methodological Outlook and Future Directions
 
 | Topic | Materials |
