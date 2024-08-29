@@ -47,11 +47,16 @@ This course is supported by [Danish Data Science Academy (DDSA)](https://ddsa.dk
 | FewShot Suppervised NLP | [Notebook ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/Classifier_setfit_LLM.ipynb) |
 
 - code exercise: https://gist.github.com/RJuro/d2af163da3177867e0307016407e13d4
+- notebook from class assignment: [Notebook ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/thursday-assignment-loop-ss24.ipynb)
 
 ### Friday: Methodological Outlook and Future Directions
 
 | Topic | Materials |
 |-------|-----------|
+| Web Scraping with BeautifulSoup | [Notebook ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/Scraping_wired_simple_ss24.ipynb) |
+| Advanced Scraping with Parsera | [Notebook ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/Parsera_SS24.ipynb) |
+| Web Automation with Playwright | [Notebook ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/Playwright_ss24.ipynb) |
+| Article Scraping Example | [Notebook ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/1_article_scraping_ss24.ipynb) |
 | Outlook - where are we going? | *Materials to be added* |
 | Examples of ML in social science in general | *Materials to be added* |
 
