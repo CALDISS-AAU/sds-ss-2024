@@ -83,3 +83,4 @@ This course is supported by [Danish Data Science Academy (DDSA)](https://ddsa.dk
 - **[Phidata](https://www.phidata.com/)**: Framework for building AI Assistants
 - **[Unsloth](https://unsloth.ai/)**: Tool for optimizing the fine-tuning of LLMs
 - **[Ollama](https://ollama.com)**: Platform for quick start with LLMs
+- **[Lynn Cherny's Substack](https://substack.com/@arnicas)**: a good low-bandwidth all-around feed relevant to science with the digital.
