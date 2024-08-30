@@ -57,8 +57,7 @@ This course is supported by [Danish Data Science Academy (DDSA)](https://ddsa.dk
 | Advanced Scraping with Parsera | [Notebook ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/Parsera_SS24.ipynb) |
 | Web Automation with Playwright | [Notebook ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/Playwright_ss24.ipynb) |
 | Article Scraping Example | [Notebook ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sds-ss-2024/blob/master/notebook/1_article_scraping_ss24.ipynb) |
-| Outlook - where are we going? | *Materials to be added* |
-| Examples of ML in social science in general | *Materials to be added* |
+| Outlook - where are we going and what does it mean? | Slides in slides-folder |
 
 *Note: Additional materials will be added as the course progresses.*
 
